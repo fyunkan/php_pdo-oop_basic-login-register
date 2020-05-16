@@ -1,2 +1,1 @@
-# php_pdo-oop_basic-login-register
-PHP PDO kullanarak OOP tarzında basit bir login/register
+OOP yöntemiyle PDO kullanarak yaptığım ufak bir login/register sistemi. İsterseniz kullanarak mantığı anlayabilir ve kendinizi geliştirirsiniz
